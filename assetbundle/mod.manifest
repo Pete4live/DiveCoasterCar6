@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2383765184
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 928e2b85ac18110ac2076d00fee51778
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dc01c0f0a89e785b99160c79df0a31db
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Mods/Dive-Coaster-6/Dive-Coaster-6@DiveCoasterFront0.1.prefab
+Dependencies: []
